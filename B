@@ -1,2 +1,6 @@
 this is from github!
+ 
 local too
+=======
+remote
+
