@@ -1,0 +1,2 @@
+C 'est la solution
+On corrige aussi le fichier A
